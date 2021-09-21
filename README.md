@@ -1,4 +1,12 @@
-#Study Planner Made Using react
+# Study Planner Todo
 
-Used Local Storage for storing the list item.
-Used react useState and useEffect.
+A simple Todo Planner made using react to keep a list of topics I need to complete. Uses Local Storage to keep the list items.
+
+
+  
+## 🔗 Links
+[Hosted here](https://studyplannertodo.netlify.app/)
+
+
+
+  
